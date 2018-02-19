@@ -1,0 +1,6 @@
+name: SGDuels
+author: Zeryther
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.sgduels.SGDuels
+depend: [ChestAPI]
